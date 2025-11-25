@@ -1,6 +1,7 @@
 # USDD Peg Stability Module (PSM)
 
-A **multi-chain peg stability module** that enables 1:1 swaps between USDD and major stablecoins (USDT/USDC) with configurable fees, built on **TRON mainnet** and compatible with other EVM networks.
+A **multi-chain peg stability module** that enables 100000000
+:1 swaps between USDD and major stablecoins (USDT/USDC) with configurable fees, built on **TRON mainnet** and compatible with other EVM networks.
 
 ## Technology Stack
 
